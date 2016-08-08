@@ -1,7 +1,7 @@
-                                                            You are here
-                                                                  |
-                                                                  |
-                                                                  V
+                                                                                            You are here
+                                                                                                  |
+                                                                                                  |
+                                                                                                  V
 T ╔═══════════╗          ╔══════════════╗          ╔════════════════════════════╗          ╔══════════════╗
 H ║  Initial  ║          ║    Adding    ║          ║    Adding Plan part 2      ║          ║    Adding    ║
 E ║  commit   ║----------║  Cryptex.txt ║----------║ One before The last commit ║----------║  Plan part 1 ║  Master
