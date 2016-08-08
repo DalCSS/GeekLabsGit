@@ -1,0 +1,24 @@
+You are here
+      |
+      |
+	  V
+T ╔═══════════╗          ╔══════════════╗          ╔════════════════════════════╗          ╔══════════════╗
+H ║  Initial  ║          ║    Adding    ║          ║    Adding Plan part 2      ║          ║    Adding    ║
+E ║  commit   ║----------║  Cryptex.txt ║----------║ One before The last commit ║----------║  Plan part 1 ║  Master
+  ╚═══════════╝          ╚══════════════╝          ╚════════════════════════════╝          ╚══════════════╝
+B                                      B \
+E			                            R \
+G			                             A \
+I			                              N \
+N			                               C \  ╔═══════════════╗        ╔══════════════╗
+I			                                H \ ║   Creating    ║        ║    Hiding    ║
+N                                              \║ Minion Branch ║--------║  Plan part 4 ║ Minion
+G                                               ╚═══════════════╝        ╚══════════════╝
+
+O
+F
+
+T
+I
+M
+E
